@@ -1,2 +1,2 @@
-### Name_Mapping
-Mapping similar names to unify them using ML and other techniques.
+### Name mapping and unification
+Mapping similar types of names into unified ruled names using advanced ML techniques.
